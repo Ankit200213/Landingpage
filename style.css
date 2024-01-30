@@ -121,7 +121,10 @@ line-height: normal;
 }
  @media (max-width:786px){
     .hero-section{
-        min-height: 50vh;
+        min-height: 60vh;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
     }
     .text_container{
         padding: 20px 10px;
@@ -130,6 +133,7 @@ line-height: normal;
     }
     .text_jumbo{
         font-size: 20px;
+        text-align: centre;
     }
     .text_big{
         font-size: 50px;
