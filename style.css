@@ -124,8 +124,8 @@ line-height: normal;
         min-height: 50vh;
     }
     .text_container{
-        padding: 20px 0;
-        font-size: 20px;
+        padding: 20px 10px;
+        font-size: 25px;
         text-align: center;
     }
     .text_jumbo{
